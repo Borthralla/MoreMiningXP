@@ -1,8 +1,11 @@
-# Fabric Example Mod
+# More Mining XP
+
+Increases the XP drops from mining things by about 8x
+Also adds mining xp to iron, copper, and gold to make them similar to coal. You still get xp when smelting as well.
 
 ## Setup
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Typical fabric mod, place the jar in mods folder
 
 ## License
 
